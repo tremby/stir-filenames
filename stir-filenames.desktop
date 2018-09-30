@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stir filenames
+Comment=Drop files on this to stir up their filenames. Filenames will be randomly rotated between the files.
+Exec=./stir-filenames.py %F
+Type=Application
