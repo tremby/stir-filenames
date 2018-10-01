@@ -26,7 +26,9 @@ No idea. [Someone was asking for it on Reddit][reddit].
 Requirements
 ------------
 
-- Python 2 (2.7 might be required) or 3
+- [Python](https://www.python.org/) 2 (2.7 might be required) or 3
+
+You already have a suitable version of Python if you're on Mac OS X.
 
 Usage
 -----
