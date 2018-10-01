@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; This was found at https://stackoverflow.com/a/142854/496046
+; It will add a drop handler for Python files
+
+[HKEY_CLASSES_ROOT\Python.File\shellex\DropHandler]
+@="{60254CA5-953B-11CF-8C96-00AA00B8708C}"

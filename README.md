@@ -47,6 +47,15 @@ Alternatively, some operating systems may allow files to be dragged to it.
 - **Gnome desktop environment**: files can be dragged and dropped
   on the provided desktop entry
   (which at present expects to be in the same directory as the script)
+- **Windows**: from what I can tell, some versions of Python on Windows already
+  support dropping files on to scripts, so try it:
+  drop files you want to stir on to the `stir-filenames.py` file.
+  If it won't let you, try making a shortcut to the `stir-filenames.py` file
+  (alt-drag) and try dropping files on to that.
+  If that won't work either, run the provided `python-drop.reg` file
+  to add a drop handler for Python files,
+  then dropping on the script should work.
+  [See a screenshot](https://i.imgur.com/QDqBweW.png).
 
 Warning
 -------
