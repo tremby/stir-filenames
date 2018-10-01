@@ -56,6 +56,12 @@ Alternatively, some operating systems may allow files to be dragged to it.
   to add a drop handler for Python files,
   then dropping on the script should work.
   [See a screenshot](https://i.imgur.com/QDqBweW.png).
+- **Mac OS X**: I haven't tested, but it looks like
+  [Dropscript][dropscript-info] (which is [available here][dropscript-dl])
+  should help.
+
+[dropscript-info]: http://www.wsanchez.net/papers/DropScript/
+[dropscript-dl]: (http://www.wsanchez.net/software/
 
 Warning
 -------
